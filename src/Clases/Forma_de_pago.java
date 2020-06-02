@@ -1,14 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+//hecho por Noemi Resendiz 
+//este codigo es de la clase forma de pago el cual esta heredado de comprar
 package Clases;
 
 /**
  *
  * @author Karen Cruz
  */
-public class Forma_de_pago {
+public class Forma_de_pago extends Comprar {
+    
     
 }
