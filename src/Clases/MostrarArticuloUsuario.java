@@ -1,6 +1,6 @@
 //hecho por Noemi Resendiz 
 //este codigo nos muestra a la clase mostrar articulo el cual herda dato de usuario
-package Clases;
+package Clases.UsuarioC;
 
 /**
  *
