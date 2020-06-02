@@ -6,7 +6,7 @@ package Clases;
  *
  * 
  */
-public class MostrarArticuloUsuario extends Usuario{
+public class MostrarArticuloUsuario extends UsuarioC{
   //método privado  categoria  
  private void categoria(){
  }
