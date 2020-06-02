@@ -25,6 +25,7 @@ private void Precio (){
 //método privado  Mostrar la existencia del articulo
 private void cantidad(){
 }
+Hola
   
   
   
