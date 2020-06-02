@@ -6,7 +6,7 @@ package Clases;
  *
  * @author Karen Cruz
  */
-public class Forma_de_pago extends Compra {
+public class Forma_de_pago extends Compra{
     
     
 }
