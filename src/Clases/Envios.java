@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Clases;
+package Clases.Compra;
 
 /**
  *
  * @author Karen Cruz
  */
-public class Envios {
+public class Envios extends Compra{
     
 }
