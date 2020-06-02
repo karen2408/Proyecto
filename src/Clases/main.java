@@ -7,6 +7,7 @@ package Clases;
 
 import Usuarios.Empleado;
 import java.io.IOException;
+import Usuarios.UsuarioC;
 
 /**
  *
@@ -17,6 +18,9 @@ public class main {
          Empleado emple=new Empleado("Brayan125", 664454, "Brayan", "Apellido", "Heroes Ixtapaluca","Ventas", "Masculino", "brayan10ww@gmail.com", 56464154, 15245);
          emple.mostrarDatos();
          emple.funcion();
+          
+         UsuarioC us = new UsuarioC("Karen", 1234, "Cruz Acosta", "Santa Barbara", "Femenino", "karencruz@gmail.com", 556789);
+         us.Registro();
          
      }
     
