@@ -8,6 +8,7 @@ package Clases;
 import Usuarios.Empleado;
 import java.io.IOException;
 import Usuarios.UsuarioC;
+import Clases.Categoria;
 
 /**
  *
@@ -21,6 +22,9 @@ public class main {
           
          UsuarioC us = new UsuarioC("Karen", 1234, "Cruz Acosta", "Santa Barbara", "Femenino", "karencruz@gmail.com", 556789);
          us.Registro();
+          
+         Categoria cat = new Categoria("Azul", 12, "Polister");
+         cat.MostrarRopa();
          
      }
     
