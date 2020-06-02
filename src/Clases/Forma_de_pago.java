@@ -8,5 +8,15 @@ package Clases.Compra;
  */
 public class Forma_de_pago extends Compra{
     
-    
+   //este método confirma datos de la forma de pago
+  private void TrajetaDeCredito_Debito(){
+  }
+  //este método confirma datos de la forma de pago por paypal
+ private void PayPal(){
+  }  
+ //este método confirma datos de la forma de pago por Deposito Bancario
+  private void DepositoBancario(){
+  }  
+   
+
 }
