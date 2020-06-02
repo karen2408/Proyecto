@@ -1,6 +1,7 @@
 //hecho por Noemi Resendiz
 // este codigo no muestra la clase de comprar el cual hereda datos de la clase MostrarArticuloUsuario
-package Clases;
+package Clases.MostrarArticuloUsuario;
+
 
 public class Compra extends MostrarArticuloUsuario {
     //este método nos muestra el total de pago de la compra
