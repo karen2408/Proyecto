@@ -1,6 +1,6 @@
 //hecho por Noemi Resendiz 
 //este codigo es de la clase forma de pago el cual esta heredado de comprar
-package Clases;
+package Clases.Comprar;
 
 /**
  *
