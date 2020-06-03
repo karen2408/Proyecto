@@ -6,7 +6,11 @@ package Clases;
  *
  * 
  */
-public class MostrarArticuloUsuario extends UsuarioC{
+public class MostrarArticuloUsuario extends Usuarios.UsuarioC{
+
+    public MostrarArticuloUsuario(String nombre, int ID, String Apellido, String Direccion, String Sexo, String Correo, int Telefono) {
+        super(nombre, ID, Apellido, Direccion, Sexo, Correo, Telefono);
+    }
   //método privado  categoria  
  private void categoria(){
  }
@@ -25,7 +29,7 @@ private void Precio (){
 //método privado  Mostrar la existencia del articulo
 private void cantidad(){
 }
-Hola
+
   
   
   
